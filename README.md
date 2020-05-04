@@ -1,0 +1,2 @@
+# TERRA
+The Template Radial velocity Re-analysis Application is a Java code designed specifically to measure precision radial velocities on ESO-DRS extracted spectra (e2ds format). It also allows to transform the astronomy compliant ‘fits’ files to convenient ASCII files for easier manipulation and representation. It runs as a command line program in java (JRE 1.7 or higher recommended) and it has been tested on MAC &amp; Linux machines. By analyzing all the spectra available on one object, it produces radial velocity measurements in the standard JDATE RV ERRRV format
